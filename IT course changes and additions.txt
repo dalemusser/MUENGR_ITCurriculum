@@ -1,0 +1,92 @@
+New course:  This is a 1000 course to introduce the information technology program and field.  Previously CMP_SC 1000 was used by IT and CS majors.  This course provides IT majors with their own intro course.
+Note: 100% online.
+INFOTC 1000
+Credit Hours: 3
+Name: Introduction to Information Technology
+Description: This course introduces the field of Information Technology including foundation experiences and knowledge, the history of digital technologies, emphasis areas in the program, career opportunities, and ethical/social issues.  Students participate in activities that introduce students to digital media, digital systems, and software engineering.  Students learn to use distributed version control systems and how to work on collaborative teams.
+Prerequisites: None. (Should not be restricted to Information Technology majors during early registration.)
+
+New course:  This is the second course in an introductory sequence in programming and problem solving.
+Note: 100% online.
+INFOTC 2040
+Credit Hours: 3
+Name:  Programming Languages and Paradigms
+Description: This course introduces several different programming languages and programming paradigms.
+Prerequisites: INFOTC 1040 or other course or experience with programming. (Should not be restricted to Information Technology majors during early registration.)
+
+Course change: The title and topics of the course are being changed to more broadly cover digital concepts and topics related to digital systems rather than being specific to multimedia.
+Note: 100% online.
+INFOTC 2600
+Credit Hours: 3
+Previously named: Digital Multimedia
+Previous description: This course introduces broad views of concepts, software, hardware, and solutions in entertainment media applications.  It will examine career options in fields such as information technology, news, film production and postproduction, website design, advertising, or communication.
+Previous prerequisites: May be restricted to Information Technology majors during early registration
+New name: Digital Systems
+New description: This course provides a foundation of knowledge of digital systems including terminology, concepts, architecture, processes, tools, hardware, and software.
+New prerequisites: None.  (Should not be restricted to Information Technology majors during early registration.)
+The new version of the course is 100% online.
+
+Course change: A I is added to name because of the creation of II and III in the course series.
+Note: 100% online.
+INFOTC 4405
+Credit Hours: 3
+Previously named: iOS App Development
+New name: iOS App Development I
+Description: This is a first in a series of courses on developing iOS applications using Xcode and the Swift programming language on the macOS platform. This course provides a foundation of knowledge and experience in developing iOS applications in Swift.
+Prerequisites: Prior experience programming in any programming language.  The student should understand basic language concepts such as variables, data structures, control structures, and functions.
+
+New course: This adds a second course to the iOS App Development series.
+Note: 100% online.
+INFOTC 4425
+Credit Hours: 3
+Name: iOS App Development II
+Description: This is the second in a series of courses on developing iOS applications using Xcode and the Swift programming language on the macOS platform.
+Prerequisites: INFOTC 4405 iOS App Development I or INFOTC 4500 Team-Based Mobile Device Application Development or permission of the instructor. (Should not be restricted to Information Technology majors during early registration.)
+
+New course: This adds a third course to the iOS App Development series.
+Note: 100% online.
+INFOTC 4445
+Credit Hours: 3
+Name: iOS App Development III
+Description: This is the third in a series of courses on developing iOS applications using Xcode and the Swift programming language on the macOS platform.
+Prerequisites: INFOTC 4425 iOS App Development II or permission of the instructor. (Should not be restricted to Information Technology majors during early registration.)
+
+New course: This adds a first course on developing Android applications in the Android App Development series.
+Note: 100% online.
+INFOTC 4410
+Credit Hours: 3
+Name: Android App Development I
+Description: This is a first in a series of courses on developing Android applications using Android Studio and the Java and Kotlin programming languages. 
+Prerequisites: Prior experience programming in any programming language.  The student should understand basic language concepts such as variables, data structures, control structures, and functions. (Should not be restricted to Information Technology majors during early registration.)
+
+New course: This adds a second course to the Android App Development series.
+Note: 100% online.
+INFOTC 4420
+Credit Hours: 3
+Name: Android App Development II
+Description: This is a second in a series of courses on developing Android applications using Android Studio and the Java and Kotlin programming languages.
+Prerequisites: INFOTC 4410 Android App Development I or permission of the instructor. (Should not be restricted to Information Technology majors during early registration.)
+
+New course: This adds a third course to the Android App Development series.
+Note: 100% online.
+INFOTC 4440
+Credit Hours: 3
+Name: Android App Development III
+Description: This is a third in a series of courses on developing Android applications using Android Studio and the Java and Kotlin programming languages.
+Prerequisites: INFOTC 4420 Android App Development II or permission of the instructor. (Should not be restricted to Information Technology majors during early registration.)
+
+New course: This adds a first course on designing user experiences for software applications.
+Note: 100% online.
+INFOTC 3600
+Credit Hours: 3
+Name: User Experience Design I
+Description: This course is a first in a series that focuses on User Experience (UX) Design for software applications.  This course introduces the beginner to processes, techniques and methods of evaluation to design, model, and evaluate application designs and user interfaces.
+Prerequisites: None. (Should not be restricted to Information Technology majors during early registration.)
+
+New course: This adds a second course on designing user experiences for software applications.
+Note: 100% online.
+INFOTC 4600
+Credit Hours: 3
+Name: User Experience Design II
+Description: This course is a second in a series that focuses on User Experience (UX) Design for software applications.  This course further develops the processes, techniques and methods of evaluation to design, model, and evaluate application designs and user interfaces.
+Prerequisites: INFOTC 3600 User Experience Design I or permission of the instructor. (Should not be restricted to Information Technology majors during early registration.)
