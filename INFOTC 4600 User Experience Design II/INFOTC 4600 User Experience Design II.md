@@ -1,4 +1,4 @@
-## INFOTC 4600 User Experience Design II
+## INFOTC 4600 User Experience Design 2
 
 ### Syllabus (v1.0)
 
@@ -14,7 +14,7 @@ This course is a second in a series that focuses on User Experience (UX) Design 
  
 #### Prerequisites
  
-INFOTC 3600 User Experience Design I
+INFOTC 3600 User Experience Design 1.
 
 #### Class Location and Meeting Time
  
@@ -43,29 +43,23 @@ The following are some of the sites that will be used during the course.  Other 
 This course utilizes Canvas for course materials, communications, and assignments:  
 [https://courses.missouri.edu](https://courses.missouri.edu)
 
-Swift Introduction  
-[https://developer.apple.com/swift/](https://developer.apple.com/swift/)
+Material Design  
+[https://material.io/guidelines/](https://material.io/guidelines/)
 
-The Swift Programming Language (Swift 4)  
-[https://developer.apple.com/library/prerelease/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html](https://developer.apple.com/library/prerelease/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)
-
-Swift Resources  
-[https://developer.apple.com/swift/resources/](https://developer.apple.com/swift/resources/)
-
-Swift Blog  
-[https://developer.apple.com/swift/blog/](https://developer.apple.com/swift/blog/)
-
-Swift.org  
-[https://swift.org/](https://swift.org/)
-
-iOS Developer Documentation  
-[https://developer.apple.com/ios/resources/](https://developer.apple.com/ios/resources/)
+Google Design  
+[https://design.google](https://design.google)
 
 iOS Human Interface Guidelines  
-[https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
+[https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)  
 
-App Store Review Guidelines  
-[https://developer.apple.com/app-store/review/guidelines/](https://developer.apple.com/app-store/review/guidelines/)
+macOS Human Interface Guidelines  
+[https://developer.apple.com/macos/human-interface-guidelines/](https://developer.apple.com/macos/human-interface-guidelines/)   
+
+Design Universal Windows Platform (UWP) Apps  
+[https://docs.microsoft.com/en-us/windows/uwp/design/basics/](https://docs.microsoft.com/en-us/windows/uwp/design/basics/)  
+
+Apple App Store Review Guidelines  
+[https://developer.apple.com/app-store/review/guidelines/](https://developer.apple.com/app-store/review/guidelines/) 
 
 GitHub  
 [http://github.com](http://github.com)
@@ -95,30 +89,39 @@ You are to use GitHub with this course.  If you already have a GitHub account th
 
 An email account dedicated to this course has been established where you are to email the instructor and support staff.  This email account is monitored by the instructor and the staff.  Please use this email account: 
 
-**iosappdev@missouri.edu**
+**infotc4600@missouri.edu**
 
 *Locations*
 
-Naka Hall is the new name for Engineering Building West (EBW).  MU Map, at present, calls it Engineering West:  
+Lafferre Hall is the home for the College of Engineering and the location of the iMac lab (C1205 and C1206) and several DoIT computer labs.  Lafferre Hall is located on 6th street near Stewart Street and is referred to as Engineering Building East or EBE.
+[http://map.missouri.edu/index.html?bldg=37023](http://map.missouri.edu/index.html?bldg=37023)
+
+Naka Hall is the home for the EECS department and the location of several DoIT computer labs.  Naka Hall is located west of Lafferre Hall and is referred to as Engineering Building West or EBW.
 [http://map.missouri.edu/index.html?bldg=37022](http://map.missouri.edu/index.html?bldg=37022)
 
-Reynolds Journalism Institute/RJI Building on MU Map:  
-[http://map.missouri.edu/index.html?bldg=37074](http://map.missouri.edu/index.html?bldg=37074)
+Engineering Building North (EBN) is the home for the IT Program and the location of the IT Program Checkout and Virtual Reality labs.  MU Map labels the building as the Old Student Health Center.  EBN is the building north of Lafferre Hall.
+[http://map.missouri.edu/index.html?bldg=37133](http://map.missouri.edu/index.html?bldg=37133)
+
+Academic Support Center (ACS) is the location for the IT Program Studio.  ACS is located west of Lafferre Hall at the corner of 6th and Stewart.  
+[http://map.missouri.edu/index.html?bldg=37065](http://map.missouri.edu/index.html?bldg=37065)
 
 *Instructor*
 
 Dale Musser, Ph.D.  
-Associate Teaching Professor, Computer Science  
-Associate Professional Practice Professor, School of Journalism  
-Chief Technology Advisor, Reynolds Journalism Institute  
+Associate Teaching Professor, Computer Science   
 Mailbox: 201 Naka Hall (Engineering Building West)  
-Engineering Office: 107A Naka Hall (Engineering Building West)  
-Journalism Office: 040 Walter Williams  
 573.864.4230 cell (voice/text)  
 musserda@missouri.edu  
 [https://www.facebook.com/dale.musser.54](https://www.facebook.com/dale.musser.54)  
 [https://dalemusser.com](https://dalemusser.com)
 
+*Teaching and Learning Assistants*
+
+Graduate Teaching Assistants (GTAs) are graduate students and Personal Learning Assistants (PLAs) are undergraduate students who support courses.  GTAs and PLAs have offices in Lafferre Hall, Naka Hall, and Engineering Building North. GTAs and PLAs are assigned to courses each semester and information about getting support from them is posted on Canvas.  
+
+*Online Office Hours*
+
+The instructor and support staff (GTAs and PLAs) hold online office hours using Zoom ([https://zoom.us](https://zoom.us)), an online video and web conferencing service.  Information about online office hours and how to setup and use Zoom is provided on Canvas.
 #### Grading
 
 The course grade is calculated as a weighted average of grades in five categories. In each category, a grade is earned as a percentage from 0% to 100% that is based on an equal averaging of items in that category. The percentage grade for each category is multiplied by the weighting percentage to determine the category’s contribution to the total grade. The sum of contributions from the five categories yields the final grade.

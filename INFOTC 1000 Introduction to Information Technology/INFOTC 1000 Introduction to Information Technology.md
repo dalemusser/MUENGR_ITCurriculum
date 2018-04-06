@@ -2,7 +2,7 @@
 
 ### Syllabus (v1.0)
 
-This course introduces the field of Information Technology including foundation experiences and knowledge, the history of digital technologies, emphasis areas in the program, career opportunities, and ethical/social issues.  Students participate in activities that introduce students to digital media, digital systems, and software engineering.  Students learn to use distributed version control systems and how to work on collaborative teams.
+Introduction to Information Technology introduces the field of Information Technology including foundation experiences and knowledge, the history of digital technologies, emphasis areas in the program, career opportunities, and ethical/social issues.  Students participate in activities that introduce students to digital media, digital systems, and software engineering.  Students learn to use distributed version control systems and how to work on collaborative teams.
 
 100% online course.
  
@@ -14,7 +14,7 @@ This course introduces the field of Information Technology including foundation 
  
 #### Prerequisites
  
-None.
+None
 
 #### Class Location and Meeting Time
  
@@ -63,7 +63,7 @@ You need to have a GitHub account.
 
 *GitHub Account*
 
-You are to use GitHub with this course.  If you already have a GitHub account then you can use it.  If you don’t have a GitHub account the best option is to sign up for the GitHub Student Developer Pack at: [https://education.github.com/pack](https://education.github.com/pack)  This offers “Unlimited private repositories (normally $7/month) while you are a student.”  You will need to create private repositories for this course.
+You are to use GitHub with this course.  If you already have a GitHub account then you can use it.  If you don’t have a GitHub account the best option is to sign up for the GitHub Student Developer Pack at: [https://education.github.com/pack](https://education.github.com/pack)  This offers "Unlimited private repositories (normally $7/month) while you are a student."  You will need to create private repositories for this course.
 
 #### Learning Support
 
@@ -73,25 +73,35 @@ An email account dedicated to this course has been established where you are to 
 
 *Locations*
 
-Naka Hall is the new name for Engineering Building West (EBW).  MU Map, at present, calls it Engineering West:  
+Lafferre Hall is the home for the College of Engineering and the location of the iMac lab (C1205 and C1206) and several DoIT computer labs.  Lafferre Hall is located on 6th street near Stewart Street and is referred to as Engineering Building East or EBE.
+[http://map.missouri.edu/index.html?bldg=37023](http://map.missouri.edu/index.html?bldg=37023)
+
+Naka Hall is the home for the EECS department and the location of several DoIT computer labs.  Naka Hall is located west of Lafferre Hall and is referred to as Engineering Building West or EBW.
 [http://map.missouri.edu/index.html?bldg=37022](http://map.missouri.edu/index.html?bldg=37022)
 
-Reynolds Journalism Institute/RJI Building on MU Map:  
-[http://map.missouri.edu/index.html?bldg=37074](http://map.missouri.edu/index.html?bldg=37074)
+Engineering Building North (EBN) is the home for the IT Program and the location of the IT Program Checkout and Virtual Reality labs.  MU Map labels the building as the Old Student Health Center.  EBN is the building north of Lafferre Hall.
+[http://map.missouri.edu/index.html?bldg=37133](http://map.missouri.edu/index.html?bldg=37133)
+
+Academic Support Center (ACS) is the location for the IT Program Studio.  ACS is located west of Lafferre Hall at the corner of 6th and Stewart.  
+[http://map.missouri.edu/index.html?bldg=37065](http://map.missouri.edu/index.html?bldg=37065)
 
 *Instructor*
 
 Dale Musser, Ph.D.  
-Associate Teaching Professor, Computer Science  
-Associate Professional Practice Professor, School of Journalism  
-Chief Technology Advisor, Reynolds Journalism Institute  
+Associate Teaching Professor, Computer Science   
 Mailbox: 201 Naka Hall (Engineering Building West)  
-Engineering Office: 107A Naka Hall (Engineering Building West)  
-Journalism Office: 040 Walter Williams  
 573.864.4230 cell (voice/text)  
 musserda@missouri.edu  
 [https://www.facebook.com/dale.musser.54](https://www.facebook.com/dale.musser.54)  
 [https://dalemusser.com](https://dalemusser.com)
+
+*Teaching and Learning Assistants*
+
+Graduate Teaching Assistants (GTAs) are graduate students and Personal Learning Assistants (PLAs) are undergraduate students who support courses.  GTAs and PLAs have offices in Lafferre Hall, Naka Hall, and Engineering Building North. GTAs and PLAs are assigned to courses each semester and information about getting support from them is posted on Canvas.  
+
+*Online Office Hours*
+
+The instructor and support staff (GTAs and PLAs) hold online office hours using Zoom ([https://zoom.us](https://zoom.us)), an online video and web conferencing service.  Information about online office hours and how to setup and use Zoom is provided on Canvas.
 
 #### Grading
 

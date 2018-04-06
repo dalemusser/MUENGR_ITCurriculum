@@ -1,4 +1,4 @@
-## INFOTC 4405 iOS App Development I
+## INFOTC 4405 iOS App Development 1
 
 ### Syllabus (v1.0)
 
@@ -24,7 +24,7 @@ This is a first in a series of courses on developing iOS applications using Xcod
  
 #### Prerequisites
  
-Prior experience programming in any programming language.  The student should understand basic language concepts such as variables, data structures, control structures, and functions.
+INFOTC 1040 Introduction to Problem Solving and Programming, CMP_SC 1050 Algorithm Design and Programming I, OR prior experience with programming and consent of instructor.
 
 #### Class Location and Meeting Time
  
@@ -46,20 +46,19 @@ You must fulfill the requirements of an assignment submission to receive credit 
 
 There is a required textbook for this course that we *will* use and there are several options for obtaining a copy.  It is expected that you have a copy of the book by the start of the second week of classes.
 
-iOS 10 App Development Essentials: Learn to Develop iOS 10 Apps with Xcode 8 and Swift 3  
+iOS 11 App Development Essentials: Learn to Develop iOS 11 Apps with Xcode 9 and Swift 4  
 Author: Smyth  
-Paperback: 816 pages  
-Publisher: CreateSpace Independent Publishing Platform; 1 edition (October 21, 2016)  
+Paperback: 812 pages  
+Publisher: CreateSpace Independent Publishing Platform; 1 edition (February 15, 2018)  
 Language: English  
-ISBN-10: 1539675033  
-ISBN-13: 978-1539675037  
-Product Dimensions: 7.5 x 1.8 x 9.2 inches
+ISBN-10: 1985617471  
+ISBN-13: 978-1985617476  
+Product Dimensions: 7.5 x 1.8 x 9.2 inches  
+Also available as Kindle or PDF book.  
+[http://a.co/6rXLrTx](http://a.co/6rXLrTx)
 
 To see the purchase options provided The Mizzou Store go to the following URL and search for the course:  
 [https://www.themizzoustore.com/t-textbook-terms.aspx](https://www.themizzoustore.com/t-textbook-terms.aspx)
-
-There are also Kindle and Paperback versions available from Amazon:  
-[https://www.amazon.com/iOS-10-App-Development-Essentials/dp/1539675033/](https://www.amazon.com/iOS-10-App-Development-Essentials/dp/1539675033/)
 
 #### Web Sites
 
@@ -126,25 +125,35 @@ An email account dedicated to this course has been established where you are to 
 
 *Locations*
 
-Naka Hall is the new name for Engineering Building West (EBW).  MU Map, at present, calls it Engineering West:  
+Lafferre Hall is the home for the College of Engineering and the location of the iMac lab (C1205 and C1206) and several DoIT computer labs.  Lafferre Hall is located on 6th street near Stewart Street and is referred to as Engineering Building East or EBE.
+[http://map.missouri.edu/index.html?bldg=37023](http://map.missouri.edu/index.html?bldg=37023)
+
+Naka Hall is the home for the EECS department and the location of several DoIT computer labs.  Naka Hall is located west of Lafferre Hall and is referred to as Engineering Building West or EBW.
 [http://map.missouri.edu/index.html?bldg=37022](http://map.missouri.edu/index.html?bldg=37022)
 
-Reynolds Journalism Institute/RJI Building on MU Map:  
-[http://map.missouri.edu/index.html?bldg=37074](http://map.missouri.edu/index.html?bldg=37074)
+Engineering Building North (EBN) is the home for the IT Program and the location of the IT Program Checkout and Virtual Reality labs.  MU Map labels the building as the Old Student Health Center.  EBN is the building north of Lafferre Hall.
+[http://map.missouri.edu/index.html?bldg=37133](http://map.missouri.edu/index.html?bldg=37133)
+
+Academic Support Center (ACS) is the location for the IT Program Studio.  ACS is located west of Lafferre Hall at the corner of 6th and Stewart.  
+[http://map.missouri.edu/index.html?bldg=37065](http://map.missouri.edu/index.html?bldg=37065)
 
 *Instructor*
 
 Dale Musser, Ph.D.  
-Associate Teaching Professor, Computer Science  
-Associate Professional Practice Professor, School of Journalism  
-Chief Technology Advisor, Reynolds Journalism Institute  
+Associate Teaching Professor, Computer Science   
 Mailbox: 201 Naka Hall (Engineering Building West)  
-Engineering Office: 107A Naka Hall (Engineering Building West)  
-Journalism Office: 040 Walter Williams  
 573.864.4230 cell (voice/text)  
 musserda@missouri.edu  
 [https://www.facebook.com/dale.musser.54](https://www.facebook.com/dale.musser.54)  
 [https://dalemusser.com](https://dalemusser.com)
+
+*Teaching and Learning Assistants*
+
+Graduate Teaching Assistants (GTAs) are graduate students and Personal Learning Assistants (PLAs) are undergraduate students who support courses.  GTAs and PLAs have offices in Lafferre Hall, Naka Hall, and Engineering Building North. GTAs and PLAs are assigned to courses each semester and information about getting support from them is posted on Canvas.  
+
+*Online Office Hours*
+
+The instructor and support staff (GTAs and PLAs) hold online office hours using Zoom ([https://zoom.us](https://zoom.us)), an online video and web conferencing service.  Information about online office hours and how to setup and use Zoom is provided on Canvas.
 
 #### Grading
 
