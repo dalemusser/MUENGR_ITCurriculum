@@ -2,7 +2,7 @@
 
 ### Syllabus (v1.0)
 
-This is a third in a series of courses on developing Android applications using Android Studio and the Java and Kotlin programming languages.  The following topics are covered in this third course:
+This is a third in a series of courses on developing Android applications using Android Studio and the Java and Kotlin programming languages. This course covers advanced topics in application architecture, application design, data persistence, and client-server architecture.  The following topics are covered in this third course:
 
  * Using the Android Studio integrated development environment (IDE).
  * Using Android Studio Layout Editor to design and create user interfaces.

@@ -2,7 +2,7 @@
 
 ### Syllabus (v1.0)
 
-This is the second in a series of courses on developing iOS applications using Xcode and the Swift programming language on the macOS platform.  The following topics are covered in this second course:
+This is the second in a series of courses on developing iOS applications using Xcode and the Swift programming language on the macOS platform. This course covers intermediate-level topics in application design, more complex UI implementations, and data persistence. The following topics are covered in this second course:
 
  * Using the Xcode integrated development environment (IDE).
  * Using Interface Builder to design and create user interfaces.
@@ -10,6 +10,8 @@ This is the second in a series of courses on developing iOS applications using X
  * How to program using the Swift programming language.
  * Programming using object-oriented, functional, and protocol-oriented paradigms.
  * The use of the Apple iOS APIs (libraries, kits).
+ * Data persistence techniques.
+ * More complex UI implementations.
  * How to debug iOS applications in Xcode.
  * How to test iOS applications in the simulator and on hardware devices.
  * Using git for managing projects and code versioning.

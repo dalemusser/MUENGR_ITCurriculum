@@ -2,14 +2,16 @@
 
 ### Syllabus (v1.0)
 
-This is the third in a series of courses on developing iOS applications using Xcode and the Swift programming language on the macOS platform.  The following topics are covered in this third course:
+This is the third in a series of courses on developing iOS applications using Xcode and the Swift programming language on the macOS platform.  This course covers advanced topics in application architecture, application design, complex UI designs, data persistence, and client-server architecture.  The following topics are covered in this third course:
 
  * Using the Xcode integrated development environment (IDE).
- * Using Interface Builder to design and create user interfaces.
+ * Using Interface Builder to design and create advanced user interfaces.
  * The use of autolayout constraints for the implementation of interface designs.
  * How to program using the Swift programming language.
  * Programming using object-oriented, functional, and protocol-oriented paradigms.
  * The use of the Apple iOS APIs (libraries, kits).
+ * Designing application architecture.
+ * Data persistence using Core Data and CloudKit
  * How to debug iOS applications in Xcode.
  * How to test iOS applications in the simulator and on hardware devices.
  * Using git for managing projects and code versioning.

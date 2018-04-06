@@ -2,12 +2,13 @@
 
 ### Syllabus (v1.0)
 
-This is a first in a series of courses on developing iOS applications using Xcode and the Swift programming language on the macOS platform.  The following topics are covered in this first course:
+This is a first in a series of courses on developing iOS applications using Xcode and the Swift programming language on the macOS platform. The following topics are covered in this first course:
 
  * Using the Xcode integrated development environment (IDE).
  * Using Interface Builder to design and create user interfaces.
  * The use of autolayout constraints for the implementation of interface designs.
  * How to program using the Swift programming language.
+ * Object-oriented programming concepts.
  * Programming using object-oriented, functional, and protocol-oriented paradigms.
  * The use of the Apple iOS APIs (libraries, kits).
  * How to debug iOS applications in Xcode.

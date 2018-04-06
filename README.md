@@ -24,6 +24,8 @@ Note: Should not be restricted to Information Technology majors during early reg
 
 **INFOTC 2600 Digital Systems**
 
+*Re: This is a course change. The title and topics of the course are being changed to more broadly cover digital concepts and topics related to digital systems rather than being specific to multimedia.*
+
 This course provides a foundation of knowledge of digital systems including terminology, concepts, architecture, processes, tools, hardware, and software.
 
 Credits: 3
@@ -42,7 +44,9 @@ Prerequisites: None
 
 Note: Should not be restricted to Information Technology majors during early registration.
 
-**INFOTC 4405 iOS App Development 1**  
+**INFOTC 4405 iOS App Development 1**
+
+*Re: This is a course change. The title of the course is being changed to reflect that it is part of three course series.*
 
 This is a first in a series of courses on developing iOS applications using Xcode and the Swift programming language on the macOS platform.
 
@@ -64,7 +68,7 @@ Note: Should not be restricted to Information Technology majors during early reg
 
 **INFOTC 4420 Android App Development 2**
 
-This is a second in a series of courses on developing Android applications using Android Studio and the Java and Kotlin programming languages.
+This is a second in a series of courses on developing Android applications using Android Studio and the Java and Kotlin programming languages. This course covers intermediate-level topics in application design, more complex UI implementations, and data persistence.
 
 Credits: 3
 
@@ -74,7 +78,7 @@ Note: Should not be restricted to Information Technology majors during early reg
 
 **INFOTC 4425 iOS App Development 2**
 
-This is the second in a series of courses on developing iOS applications using Xcode and the Swift programming language on the macOS platform.
+This is the second in a series of courses on developing iOS applications using Xcode and the Swift programming language on the macOS platform. This course covers intermediate-level topics in application design, more complex UI implementations, and data persistence.
 
 Credits: 3
 
@@ -84,7 +88,7 @@ Note: Should not be restricted to Information Technology majors during early reg
 
 **INFOTC 4440 Android App Development 3**
 
-This is a third in a series of courses on developing Android applications using Android Studio and the Java and Kotlin programming languages.
+This is a third in a series of courses on developing Android applications using Android Studio and the Java and Kotlin programming languages. This course covers advanced topics in application architecture, application design, data persistence, and client-server architecture.
 
 Credits: 3
 
@@ -94,7 +98,7 @@ Note: Should not be restricted to Information Technology majors during early reg
 
 **INFOTC 4445 iOS App Development 3**
 
-This is the third in a series of courses on developing iOS applications using Xcode and the Swift programming language on the macOS platform.
+This is the third in a series of courses on developing iOS applications using Xcode and the Swift programming language on the macOS platform.  This course covers advanced topics in application architecture, application design, data persistence, and client-server architecture.
 
 Credits: 3
 

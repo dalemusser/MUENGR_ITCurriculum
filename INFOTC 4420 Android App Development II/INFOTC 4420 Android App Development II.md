@@ -2,7 +2,7 @@
 
 ### Syllabus (v1.0)
 
-This is a second in a series of courses on developing Android applications using Android Studio and the Java and Kotlin programming languages.  The following topics are covered in this second course:
+This is a second in a series of courses on developing Android applications using Android Studio and the Java and Kotlin programming languages. This course covers intermediate-level topics in application design, more complex UI implementations, and data persistence. The following topics are covered in this second course:
 
  * Using the Android Studio integrated development environment (IDE).
  * Using Android Studio Layout Editor to design and create user interfaces.
@@ -10,6 +10,8 @@ This is a second in a series of courses on developing Android applications using
  * How to program using the Java and Kotlin programming languages.
  * Programming using object-oriented, functional, and protocol-oriented paradigms.
  * The use of the Android application programming interfaces (APIs) (libraries, kits).
+ * Data persistence techniques.
+ * More complex UI implementations.
  * How to debug Android applications in Android Studio.
  * How to test Android applications in the simulator and on hardware devices.
  * Using git and GitHub for managing projects and code versioning.
