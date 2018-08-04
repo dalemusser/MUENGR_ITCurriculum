@@ -180,13 +180,13 @@ Please allow a minimum of 24 hours to receive a response to emails.
 *Locations*
 
 Lafferre Hall is the home for the College of Engineering and the location of the iMac lab (C1205 and C1206) and several DoIT computer labs.  Lafferre Hall is located on 6th street near Stewart Street and is referred to as Engineering Building East or EBE.
-[http://map.missouri.edu/index.html?bldg=37023](http://map.missouri.edu/index.html?bldg=37023)
+<http://map.missouri.edu/index.html?bldg=37023>
 
 Naka Hall is the home for the EECS department and the location of several DoIT computer labs.  Naka Hall is located west of Lafferre Hall and is referred to as Engineering Building West or EBW.
-[http://map.missouri.edu/index.html?bldg=37022](http://map.missouri.edu/index.html?bldg=37022)
+<http://map.missouri.edu/index.html?bldg=37022>
 
 Engineering Building North (EBN) is the home for the IT Program and the location of the IT Program Checkout and Virtual Reality labs.  MU Map labels the building as the Old Student Health Center.  EBN is the building north of Lafferre Hall.
-[http://map.missouri.edu/index.html?bldg=37133](http://map.missouri.edu/index.html?bldg=37133)
+<http://map.missouri.edu/index.html?bldg=37133>
 
 *Instructor*
 
@@ -196,8 +196,8 @@ Mailbox: 201 Naka Hall (Naka Hall)
 573.884.1328 MU phone - redirect to my cell
 415.279.4040 cell (voice/text/Apple Messages)  
 musserda@missouri.edu  
-[https://www.facebook.com/dale.musser.54](https://www.facebook.com/dale.musser.54)  
-[https://dalemusser.com](https://dalemusser.com)
+<https://www.facebook.com/dale.musser.54>  
+<https://dalemusser.com>
 
 *Teaching and Learning Assistants*
 
@@ -205,7 +205,7 @@ Graduate Teaching Assistants (GTAs) are graduate students and Personal Learning 
 
 *Online Office Hours*
 
-The instructor and e-learning support specialists (GTAs and PLAs) hold online office hours using Zoom ([https://zoom.us](https://zoom.us)), an online video and web conferencing service.  Information about online office hours and how to setup and use Zoom is provided on Canvas.
+The instructor and e-learning support specialists (GTAs and PLAs) hold online office hours using Zoom (<https://zoom.us>), an online video and web conferencing service.  Information about online office hours and how to setup and use Zoom is provided on Canvas.
 
 #### Grading
 
@@ -288,7 +288,7 @@ MU faculty are required to report all instances of academic or classroom miscond
 
 #### Title IX Information
 
-The University of Missouri prohibits all forms of sex or gender discrimination, including sex-based violence. If you or someone you know has experienced sex discrimination or been harassed or assaulted, you can get help at the Relationship & Sexual Violence Prevention (RSVP) Center, a confidential resource, at rsvp@missouri.edu or (573) 882-6638, or go to <https://rsvp.missouri.edu>. You can also contact the Title IX Office (title9@missouri.edu; (573) 882-3880; or www.title9.missouri.edu). Mizzou employees are required to report all incidents of sex discrimination to the Title IX Office.
+The University of Missouri prohibits all forms of sex or gender discrimination, including sex-based violence. If you or someone you know has experienced sex discrimination or been harassed or assaulted, you can get help at the Relationship & Sexual Violence Prevention (RSVP) Center, a confidential resource, at rsvp@missouri.edu or (573) 882-6638, or go to <https://rsvp.missouri.edu>. You can also contact the Title IX Office (<title9@missouri.edu>; (573) 882-3880; or <http://www.title9.missouri.edu>). Mizzou employees are required to report all incidents of sex discrimination to the Title IX Office.
 
 #### Students with Disabilities
 
