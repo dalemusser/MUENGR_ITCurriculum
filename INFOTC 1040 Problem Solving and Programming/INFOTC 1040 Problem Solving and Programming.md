@@ -152,10 +152,10 @@ Choose the format that will work best for you. Some people are more comfortable 
 The following are some of the sites that will be used during the course.  Other sites are provided during the course.
 
 This course utilizes Canvas for course materials, communications, and assignments:  
-[https://courses.missouri.edu](https://courses.missouri.edu)
+<https://courses.missouri.edu>
 
 The Python web site is the source for downloading Python and accessing online documentation:
-[Python.org](https://www.python.org/)
+<https://www.python.org>
 
 #### Hardware/Software Requirements
 

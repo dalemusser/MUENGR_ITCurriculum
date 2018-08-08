@@ -1,6 +1,6 @@
 ## INFOTC 2600 Digital Systems
 
-### Syllabus (v1.0)
+### Syllabus (FS18, v1.0)
 
 This course provides a foundation of knowledge of digital systems including terminology, concepts, architecture, processes, tools, hardware, and software.
 
@@ -16,11 +16,18 @@ This course provides a foundation of knowledge of digital systems including term
  
 None
 
-#### Class Location and Meeting Time
+#### Class Schedule
  
 This is an online course.  There are no physical class meetings.
+
+Saturday, August 18 - Canvas course and first module available.
+Monday, August 20 - Fall classes officially begin.
+Monday, September 24 - Last day to drop the course without a grade.
+Saturday, November 17 - Sunday, November 25 - Thanksgiving Break
+Monday, December, 3 - Last day to withdraw from a course.
+Friday, December 7 - **All challenges, activities, quizzes and exams have to be submitted.**
  
-The fall and spring semesters are 15 weeks long plus a final’s week. The summer semester is 8 weeks long. The course officially starts on *start_date*.  Your access to Canvas and the first week's modules are available on Saturday, *course_access_date*.  Each week you are provided with new modules on Saturday and the work needs to be completed by the following Friday.  Assignment, quiz and test solutions are posted the week following their assignment.  This means there can be no extensions on assignments.  **Assignments must be submitted by 11:59pm on the Friday due date each week to receive credit.**
+The course officially starts on Monday, August 20.  Your access to Canvas and the first week's modules are available on Saturday, August 18.  Each week you are provided with new modules on Saturday and the work needs to be completed by the following Friday.  Assignment, quiz and test solutions are posted the week following their assignment.  This means there can be no extensions on assignments.  **Assignments must be submitted by 11:59pm on the Friday due date each week to receive credit.**
 
 #### Assignments
 
@@ -37,13 +44,13 @@ There is no required textbook for this course.  The materials required for the c
 The following are some of the sites that will be used during the course.  Other sites are provided during the course.
 
 This course utilizes Canvas for course materials, communications, and assignments:  
-[https://courses.missouri.edu](https://courses.missouri.edu)
+<https://courses.missouri.edu>
 
 Git
-[https://git-scm.com/](https://git-scm.com/)
+<https://git-scm.com>
 
 GitHub  
-[http://github.com](http://github.com)
+<http://github.com>
 Every student is required to have a GitHub account and will know or learn how to use git.
 
 #### Hardware/Software Requirements
