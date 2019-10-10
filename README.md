@@ -34,6 +34,16 @@ Prerequisites: None
 
 Note: Should not be restricted to Information Technology majors during early registration.
 
+**INFOTC 3380 Database Systems and Applications**
+
+This course covers database management systems (DBMS) and the development of applications that utilize databases including relational/SQL and NoSQL types. Topics include the evolution of data storage and databases, data modeling, relational and NoSQL databases, SQL, document, graph and key-value storage and retrieval, application development using databases, database scaling, database trends, and popular database systems.
+
+Credits: 3
+
+Prerequisites: C- or higher in CMP_SC 2050 or INFOTC 2040 or experience developing applications and permission of the instructor.
+
+Note: Should not be restricted to Information Technology majors during early registration.
+
 **INFOTC 3600 User Experience Design 1**
 
 This course is a first in a series that focuses on User Experience (UX) Design for software applications.  This course introduces the beginner to processes, techniques and methods of evaluation to design, model, and evaluate application designs and user interfaces.
